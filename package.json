@@ -1,14 +1,14 @@
 {
   "name": "zhufengshop",
   "version": "1.0.0",
-  "description": "这是一个珠峰网上商城的例子",
+  "description": "这是一个网上商城",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "http://www.github.com/zhufengnodejs/zhufengshop"
+    "url": "http://www.github.com/wangli82/webShop"
   },
   "keywords": [
     "shop",
@@ -17,7 +17,7 @@
     "express",
     "bower"
   ],
-  "author": "zhangrenyang",
+  "author": "wangli",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
